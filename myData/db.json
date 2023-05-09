@@ -1,0 +1,104 @@
+{
+  "customer": [
+    {
+      "id": 1
+    },
+    {
+      "createdAt": "2023-05-02",
+      "cc": "233535",
+      "nombres": "dfs",
+      "apellidos": "zz",
+      "edad": "34",
+      "email": "jsjaj@jaj",
+      "telefono": "132435325",
+      "fechanac": "2023-05-08",
+      "fechaing": "2023-05-09",
+      "id": 2
+    },
+    {
+      "createdAt": "2023-05-02",
+      "cc": "454545",
+      "nombres": "jose",
+      "apellidos": "jajja",
+      "edad": "45",
+      "email": "jjsj@jajha",
+      "telefono": "55656",
+      "fechanac": "2023-05-02",
+      "fechaing": "2023-05-09",
+      "id": 3
+    },
+    {
+      "createdAt": "2023-05-09",
+      "cc": "124545454",
+      "nombres": "santiago",
+      "apellidos": "colmenares",
+      "edad": "23",
+      "email": "jhajajja@jqjq",
+      "telefono": "45552323",
+      "fechanac": "2023-04-30",
+      "fechaing": "2023-05-10",
+      "id": 4
+    },
+    {
+      "createdAt": "2023-05-09",
+      "cc": "4356",
+      "nombres": "fffff",
+      "apellidos": "zzzzzzz",
+      "edad": "67",
+      "email": "dgdgg@sdgg",
+      "telefono": "657676",
+      "fechanac": "2023-05-09",
+      "fechaing": "2023-05-09",
+      "id": 5
+    },
+    {
+      "createdAt": "2023-05-08",
+      "cc": "45445",
+      "nombres": "pedro",
+      "apellidos": "florez",
+      "edad": "56",
+      "email": "jsjsjjs@jjaa",
+      "telefono": "213666",
+      "fechanac": "2023-05-09",
+      "fechaing": "2023-05-09",
+      "id": 6
+    },
+    {
+      "createdAt": "2023-05-09",
+      "cc": "122545d",
+      "nombres": "daniel",
+      "apellidos": "florezzz",
+      "edad": "26",
+      "email": "hsjsks@jjaa",
+      "telefono": "313225",
+      "fechanac": "2023-05-01",
+      "fechaing": "2023-05-09",
+      "id": 7
+    },
+    {
+      "createdAt": "2023-05-09",
+      "cc": "122545d",
+      "nombres": "daniel",
+      "apellidos": "florezzz",
+      "edad": "26",
+      "email": "hsjsks@jjaa",
+      "telefono": "313225",
+      "fechanac": "2023-05-01",
+      "fechaing": "2023-05-09",
+      "id": 8
+    },
+    {
+      "createdAt": "2023-05-09",
+      "cc": "122545d",
+      "nombres": "daniel",
+      "apellidos": "florezzz",
+      "edad": "26",
+      "email": "hsjsks@jjaa",
+      "telefono": "313225",
+      "fechanac": "2023-05-01",
+      "fechaing": "2023-05-09",
+      "id": 9
+    }
+  ],
+  "evaluacion": []
+}
